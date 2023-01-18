@@ -1,0 +1,5 @@
+C:\Users\holts\MyApp\bin\Release\net7.0\publish\MyApp.exe
+C:\Users\holts\MyApp\bin\Release\net7.0\publish\MyApp.dll
+C:\Users\holts\MyApp\bin\Release\net7.0\publish\MyApp.deps.json
+C:\Users\holts\MyApp\bin\Release\net7.0\publish\MyApp.runtimeconfig.json
+C:\Users\holts\MyApp\bin\Release\net7.0\publish\MyApp.pdb
